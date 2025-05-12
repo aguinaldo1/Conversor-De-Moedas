@@ -96,11 +96,10 @@ O programa segue os seguintes passos:
 
 ## 📈 Melhorias Futuras
 
-- Armazenar histórico de conversões
-- Suporte a múltiplos idiomas (i18n)
-- Interface gráfica (JavaFX ou Swing)
-- Testes automatizados com JUnit
-- Transformar em aplicação web com Spring Boot
+- Histórico de Conversões: Adicione a capacidade de rastrear e exibir o histórico das últimas conversões realizadas, oferecendo aos usuários uma visão completa de suas atividades.
+- Suporte para Mais Moedas: Expanda a lista de moedas disponíveis para escolha, permitindo que os usuários convertam entre uma variedade ainda maior de opções monetárias.
+- Registros de Logs: Utilize as funções da biblioteca java.time para criar registros que registrem as conversões realizadas, incluindo informações sobre quais moedas foram convertidas e em que momento.
+- Testes automatizados com JUnit.
 
 ---
 
